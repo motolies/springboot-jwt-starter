@@ -1,3 +1,6 @@
+https://www.linkedin.com/pulse/json-web-token-jwt-spring-security-real-world-example-boris-trivic
+
+
 [\[中文版\]](README_cn.md)
 
 ```
